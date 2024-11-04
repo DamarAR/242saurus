@@ -21,3 +21,19 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+DamarAR:
+  name: Damar Aryaputra Rahman
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/DamarAR
+  image_url: https://github.com/DamarAR.png
+  socials:
+    github: DamarAR
+
+geordievannese:
+  name: Geordie Vannese Hardjanto
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/geordievannese
+  image_url: https://github.com/geordievannese.png
+  socials:
+    github: geordievannese
